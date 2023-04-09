@@ -1,0 +1,27 @@
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).csproj.GenerateResource.cache
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).csproj.CoreCompileInputs.cache
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).csproj.AssemblyReference.cache
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).csproj.CopyComplete
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\Lab 1(OOP).exe.config
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\Lab 1(OOP).exe
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\Lab 1(OOP).pdb
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).exe
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\Lab 1(OOP).pdb
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Лёша\source\repos\Lab 1(OOP)\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
